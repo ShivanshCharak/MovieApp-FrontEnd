@@ -23,5 +23,5 @@ You may also see any lint errors in the console.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ShivanshCharak/MovieApp-FrontEnd/e
+   git clone https://github.com/ShivanshCharak/MovieApp-FrontEnd/
 ![Website](https://github.com/ShivanshCharak/MovieApp-FrontEnd/assets/96943825/d23eec0b-aeac-43c1-909a-a9acd4e20e22)
